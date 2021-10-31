@@ -1,0 +1,4 @@
+Adjusting noise
+Recording for 4 seconds
+Done recording
+Recognizing the text
