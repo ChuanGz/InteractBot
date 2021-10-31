@@ -1,0 +1,8 @@
+1-Python Base
+    Python ^3.9
+    Include PATH environment Windows
+    Include pip
+    Install Build Tool C++ Desktop, Build Tool for python
+2-Libaries
+    pip install PyAudio
+    pip install SpeechRecognition (https://hackernoon.com/how-to-convert-speech-to-text-in-python-q0263tzp)
