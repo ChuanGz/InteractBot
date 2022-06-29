@@ -1,2 +1,2 @@
 # InteractBot
-Test Library Bot interactive I/O Computer
+Bot interactive with your I/O Computer
