@@ -1,2 +1,2 @@
 # InteractBot
-Bot interactive with your I/O Computer
+Google Speech Recognition Library
